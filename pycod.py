@@ -96,4 +96,5 @@ def menu():
             break
         else:
             print("ivalid choice!")
-menu()
+# menu()
+print("git practice")
