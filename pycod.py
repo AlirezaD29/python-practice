@@ -98,3 +98,5 @@ def menu():
             print("ivalid choice!")
 # menu()
 print("git practice")
+print("new change")
+print("another change")
